@@ -1,2 +1,2 @@
 # exam-organizer
-Exam Organizer
+This Rust program is a command-line study planner that uses a priority queue to help you manage your exams and study sessions. It prompts you to enter details for each subject, including its name, priority (difficulty), and exam date. The program then uses a binary heap to automatically sort and display the study tasks, prioritizing the most difficult subjects and those with the soonest exam dates. This approach ensures you focus on the most critical tasks first.
