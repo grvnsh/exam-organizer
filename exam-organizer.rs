@@ -1,6 +1,3 @@
-
-
-
 use std::collections::BinaryHeap;
 use std::cmp::Ordering;
 use chrono::{NaiveDate, Local};
